@@ -1,6 +1,8 @@
 .idea/
 taget/
 
+*.iml
+
 # Compiled class file
 *.class
 
