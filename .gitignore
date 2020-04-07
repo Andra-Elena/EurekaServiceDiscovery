@@ -1,5 +1,7 @@
 .idea/
 taget/
+*/target/*
+*/target/**
 
 *.iml
 
